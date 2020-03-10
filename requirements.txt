@@ -1,0 +1,12 @@
+asgiref==3.2.3
+Django==3.0.1
+django-crispy-forms==1.9.0
+docutils==0.14
+numpy==1.13.1
+python-dateutil==2.6.1
+pytz==2017.2
+six==1.10.0
+sqlparse==0.3.0
+statistics==1.0.3.5
+swampy==2.1.7
+virtualenv==16.7.9
